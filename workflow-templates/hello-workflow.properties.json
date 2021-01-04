@@ -1,0 +1,11 @@
+{
+    "name": "DAppNode Organization Workflow",
+    "description": "DAppNode Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "DNP"
+    ],
+    "filePatterns": [
+        "dappnode_package.json"
+    ]
+}
