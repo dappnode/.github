@@ -1,11 +1,13 @@
-**LEAD:** <!--Every project needs a lead, who will be responsible for maintaining the project board, setting up meetings and coordinating the team-->
+## Project Name 
 
-**TEAM:**  <!--Tag everyone involved in the project-->
+**Lead:** <!--Every project needs a lead, who will be responsible for maintaining the project board, setting up meetings and coordinating the team-->
 
-**SCOPE:** <!--A definition of what the project tries to achieve. The more accurate the better.-->
+**Team:**  <!--Tag everyone involved in the project-->
 
-**DEADLINE**: <!--When does it need to be ready? -->
+**Scope:** <!--A definition of what the project tries to achieve. The more accurate the better.-->
 
-**EXTERNAL FACTORS:** <!--Are there any external factors that might impact the progress of the project? List them -->
+**Deadline**: <!--When does it need to be ready? -->
 
-**MILESTONES:** <!--List the deliverables and intermediate steps to take for the project to be complete. They can be github issues-->
+**External Factors:** <!--Are there any external factors that might impact the progress of the project? List them -->
+
+**Milestones:** <!--List the deliverables and intermediate steps to take for the project to be complete. They can be github issues-->
